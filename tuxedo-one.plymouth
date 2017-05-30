@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=TUXEDO One
+Description=A theme that features the TUXEDO logo on a blank background.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/tuxedo-one
+ScriptFile=/usr/share/plymouth/themes/tuxedo-one/tuxedo-one.script
