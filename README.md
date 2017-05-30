@@ -1,6 +1,9 @@
 # tuxedo-plymouth-one
 TUXEDO style plymouth theme
 
+## Screenshot
+![Screenshot TUXEDO One](https://raw.github.com/tuxedocomputers/tuxedo-plymouth-one/raw/master/screenshot.png?raw=true "Screenshot TUXEDO One")
+
 ## How to use
 * Place files under /usr/share/plymouth/themes/
 * On Ubuntu run ``sudo update-alternatives --config default.plymouth``
