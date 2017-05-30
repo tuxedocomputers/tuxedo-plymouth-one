@@ -1,8 +1,9 @@
 # tuxedo-plymouth-one
 TUXEDO style plymouth theme
 
-## Screenshot
+## Screenshot & GIF
 ![Screenshot TUXEDO One](https://raw.github.com/tuxedocomputers/tuxedo-plymouth-one/master/screenshot.png?raw=true "Screenshot TUXEDO One")
+![Preview TUXEDO One](https://raw.github.com/tuxedocomputers/tuxedo-plymouth-one/master/preview.gif?raw=true "Preview TUXEDO One")
 
 ## How to use
 * Place files under /usr/share/plymouth/themes/
